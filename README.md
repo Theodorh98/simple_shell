@@ -67,3 +67,10 @@ $| Where you will get a prompt in the shape of a dollar sign so you can start ty
 <li>Theodorh | dorhtheophilus@gmail.com</li>
 <li>Ken | ekrikakenny@gmail.com</li>
 </ul></h3>
+
+
+<h2>Authors</h2>
+<h3><ul>
+<li>Theodorh | dorhtheophilus@gmail.com</li>
+<li>Ken | ekrikakenny@gmail.com</li>
+</ul></h3>
