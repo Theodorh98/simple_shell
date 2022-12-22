@@ -1,7 +1,4 @@
 !#/bin/bash
-
-seq 10 | xargs -n 1 echo "done"
-
 touch filecreate.c-{001..1000}
 git add .
 git commit -m "update"
